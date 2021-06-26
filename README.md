@@ -20,7 +20,7 @@ python3 snackMachine.py
 ######
 
 
-#The design was built on the following UML #
+# The design was built on the following UML #
 
 ![UML](media/UML.PNG)
 
@@ -28,6 +28,6 @@ turned into the following code skeleton
 
 ![skeleton code snippet](media/Code_Skeleton.PNG)
 
-###############################
+######
 # important Note #
 To acsess Control mode Enter the password which is 12345678
