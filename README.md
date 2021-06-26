@@ -5,7 +5,7 @@ language: python 3.9
 
 --------------------------
 
-###########################
+######
 Quick Start
 
 clone the repo
@@ -17,7 +17,7 @@ python snackMachine.py
 or
 python3 snackMachine.py
 
-###########################
+######
 
 
 #The design was built on the following UML #
